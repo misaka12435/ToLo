@@ -187,7 +187,7 @@ def main(cfg):
             ]
         }
     ]
-    data=load_json("./data/color_iou_threshold_0.1.json")
+    data=load_json("./data/example.json")
     examples_list=[]
     for i in range(len(data["prompts"])):
         example={}

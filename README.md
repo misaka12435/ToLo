@@ -7,7 +7,10 @@ conda activate ToLo
 pip install -r requirements.txt
 ```
 ## Overview
+![Teaser figure](figures/framwork.png)
 ## Inference
+![Teaser figure](figures/Qualitative.png)
+Run the following command to generate an example image:
 ```buildoutcfg
 python inference_RnB.py general.save_path=./example_output 
 ```

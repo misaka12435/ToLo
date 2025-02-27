@@ -1,4 +1,4 @@
-# ToLo
+# ToLo：A Two Stage Training-Free Layout-To-Image  Generation Method For High Overlapping Layout
 ## Environment Setup
 Run the following command to set up the environment:
 ```buildoutcfg
